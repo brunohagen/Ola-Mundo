@@ -5,6 +5,4 @@ Repositório criado durante uma aula ao vivo!
 
 Essa linha eu adicionei diretamento no site! QUE IMPRESSIONANTE!
 
-Mais uma alteração.
-
-Teste de mais uma alteração.
+Alteração em 03 de setembro de 2021.
